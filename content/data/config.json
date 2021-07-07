@@ -152,5 +152,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://perpetual-pine-5e8e0.netlify.app"
 }
